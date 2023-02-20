@@ -1,7 +1,7 @@
 {
     "name": "CubeWolf-Launcher",
     "preductname": "CubeWolf Launcher",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "description": "Launcher Mincraft custom (premium)",
     "main": "src/app.js",
     "author": "Luuxis",
